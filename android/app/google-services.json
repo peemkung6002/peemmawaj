@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "233979467819",
+    "firebase_url": "https://onlinefirebase-f6539-default-rtdb.firebaseio.com",
+    "project_id": "onlinefirebase-f6539",
+    "storage_bucket": "onlinefirebase-f6539.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:233979467819:android:877a248ecf4b27a3b5b26e",
+        "android_client_info": {
+          "package_name": "com.example.onlinedb_peemmawaj"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKMSG_MUEL7MXuJAGWWQ_RVC4DZa_HeQQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
